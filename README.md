@@ -9,6 +9,8 @@
 8. Lấy tất cả các đơn hàng của khách hàng có id là 3.
 9. Lấy danh sách khách hàng và đơn hàng của họ, sử dụng câu lệnh JOIN.
 10. Lấy danh sách email của khách hàng, sử dụng hàm DISTINCT.
+Sơ đồ thể hiện mối quan hệ giữa các bảng
+![alt bang_thuoc_tinh](./bangthuoctinh.png)
 #### Bài 2
 1. Tạo bảng theo yêu cầu sau
   - `KHACHHANG (MAKH, HOTEN, DCHI, SODT, NGSINH, DOANHSO, NGDK)`
@@ -28,6 +30,13 @@
 
 2. Tạo câu lệnh Insert, update và xoá dữ liệu
   - Tạo câu lệnh truy vấn insert các dữ liệu sau
+  <br/>
+  
+  ![alt bang_nhanvien](./bangnhanvien.png)
+  ![alt sanpham](./sanpham.png)
+  ![alt cthd](./cthd.png)
+  
+  <br/>
   
   1. Tạo các quan hệ và khai báo các khóa chính, khóa ngoại của quan hệ.
   2. Thêm vào thuộc tính GHICHU có kiểu dữ liệu varchar(20) cho quan hệ SANPHAM.
