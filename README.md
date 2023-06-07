@@ -9,8 +9,9 @@
 8. Lấy tất cả các đơn hàng của khách hàng có id là 3.
 9. Lấy danh sách khách hàng và đơn hàng của họ, sử dụng câu lệnh JOIN.
 10. Lấy danh sách email của khách hàng, sử dụng hàm DISTINCT.
-Sơ đồ thể hiện mối quan hệ giữa các bảng
-![alt bang_thuoc_tinh](./bangthuoctinh.png)
+
+<br/>
+
 #### Bài 2
 1. Tạo bảng theo yêu cầu sau
   - `KHACHHANG (MAKH, HOTEN, DCHI, SODT, NGSINH, DOANHSO, NGDK)`
@@ -26,7 +27,9 @@ Sơ đồ thể hiện mối quan hệ giữa các bảng
   - Khi mua hàng, mỗi khách hàng sẽ nhận một hóa đơn tính tiền, trong đó sẽ có số hóa đơn, ngày mua, nhân viên nào bán hàng, trị giá của hóa đơn là bao nhiêu và mã số của khách hàng nếu là khách hàng thành viên.
 
   - `CTHD (SOHD,MASP,SL)`
-  - Diễn giải chi tiết trong mỗi hóa đơn gồm có những sản phẩm gì với số lượng là bao nhiêu. (sơ đồ thể hiện mối quan hệ giữa các bảng)
+  - Diễn giải chi tiết trong mỗi hóa đơn gồm có những sản phẩm gì với số lượng là bao nhiêu.
+  - Sơ đồ thể hiện mối quan hệ giữa các bảng
+![alt bang_thuoc_tinh](./bangthuoctinh.png)
 
 2. Tạo câu lệnh Insert, update và xoá dữ liệu
   - Tạo câu lệnh truy vấn insert các dữ liệu sau
