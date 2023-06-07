@@ -29,7 +29,11 @@
   - `CTHD (SOHD,MASP,SL)`
   - Diễn giải chi tiết trong mỗi hóa đơn gồm có những sản phẩm gì với số lượng là bao nhiêu.
   - Sơ đồ thể hiện mối quan hệ giữa các bảng
+ <br/>
+ 
 ![alt bang_thuoc_tinh](./bangthuoctinh.png)
+
+<br/>
 
 2. Tạo câu lệnh Insert, update và xoá dữ liệu
   - Tạo câu lệnh truy vấn insert các dữ liệu sau
